@@ -53,19 +53,19 @@ graph TB
 ### Installation
 
 ```bash
-npm install @your-org/secure-chat-sdk
+clone git https://github.com/MaliosDark/secure-chat-sdk
 ```
 
 ### Basic Usage
 
 ```jsx
 import React from 'react';
-import { SecureChatProvider, ChatInterface } from '@your-org/secure-chat-sdk';
+import { SecureChatProvider, ChatInterface } from 'secure-chat-sdk';
 
 function App() {
   return (
     <SecureChatProvider
-      signalingServer="wss://your-signaling-server.com/ws"
+      signalingServer="wss://your-signaling-server.com/ws"  ## Change this to a signalling server
       username="john_doe"
       onError={(error) => console.error('Chat error:', error)}
     >
@@ -85,7 +85,7 @@ import {
   ChatInterface,
   AudioMeter,
   PeerList 
-} from '@your-org/secure-chat-sdk';
+} from 'secure-chat-sdk';
 
 function CustomChatApp() {
   const { 
@@ -513,10 +513,10 @@ MIT License - see LICENSE file for details
 
 ## 🔗 Links
 
-- [Documentation](https://docs.securechat-sdk.com)
-- [Examples](https://github.com/your-org/secure-chat-examples)
-- [Security Audit](https://security.securechat-sdk.com)
-- [Support](https://support.securechat-sdk.com)
+- [Documentation](https://github.com/MaliosDark/secure-chat-sdk/edit/main/README.md)
+- [Examples](https://github.com/MaliosDark/secure-chat-sdk/secure-chat-examples)
+- [Security Audit](https://github.com/MaliosDark/secure-chat-sdk/blob/main/SECURITY.md)
+- [Support](https://malios.net)
 
 ---
 
