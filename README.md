@@ -1,5 +1,32 @@
 # SecureChat SDK
 
+![SecureChat SDK](repo/sechatsdk.png)
+
+
+[![License](https://img.shields.io/github/license/MaliosDark/secure-chat-sdk)](https://github.com/MaliosDark/secure-chat-sdk/blob/main/LICENSE)
+[![Issues](https://img.shields.io/github/issues/MaliosDark/secure-chat-sdk)](https://github.com/MaliosDark/secure-chat-sdk/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/MaliosDark/secure-chat-sdk)](https://github.com/MaliosDark/secure-chat-sdk/pulls)
+[![Stars](https://img.shields.io/github/stars/MaliosDark/secure-chat-sdk?style=social)](https://github.com/MaliosDark/secure-chat-sdk/stargazers)
+[![Forks](https://img.shields.io/github/forks/MaliosDark/secure-chat-sdk?style=social)](https://github.com/MaliosDark/secure-chat-sdk/network/members)
+[![Watchers](https://img.shields.io/github/watchers/MaliosDark/secure-chat-sdk?style=social)](https://github.com/MaliosDark/secure-chat-sdk/watchers)
+[![Contributors](https://img.shields.io/github/contributors/MaliosDark/secure-chat-sdk?color=2b9348)](https://github.com/MaliosDark/secure-chat-sdk/graphs/contributors)
+[![Top Language](https://img.shields.io/github/languages/top/MaliosDark/secure-chat-sdk)](https://github.com/MaliosDark/secure-chat-sdk)
+[![Last Commit](https://img.shields.io/github/last-commit/MaliosDark/secure-chat-sdk)](https://github.com/MaliosDark/secure-chat-sdk/commits)
+[![Repo Size](https://img.shields.io/github/repo-size/MaliosDark/secure-chat-sdk)](https://github.com/MaliosDark/secure-chat-sdk)
+[![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=MaliosDark.secure-chat-sdk)](https://github.com/MaliosDark/secure-chat-sdk)
+
+[![React](https://img.shields.io/badge/React-18.2.0-blue?logo=react&logoColor=white)](https://reactjs.org/)
+[![WebRTC](https://img.shields.io/badge/WebRTC-supported-brightgreen)](https://webrtc.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-4.8-blue?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![Node.js](https://img.shields.io/badge/Node.js-18.x-green?logo=node.js&logoColor=white)](https://nodejs.org/)
+[![AES-256-GCM](https://img.shields.io/badge/AES--256_GCM-secure-blue)](https://en.wikipedia.org/wiki/Galois/Counter_Mode)
+[![P-256 ECDH](https://img.shields.io/badge/P--256_ECDH-supported-success)](https://en.wikipedia.org/wiki/Elliptic-curve_Diffie–Hellman)
+[![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)](https://developer.mozilla.org/docs/Web/CSS)
+[![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
+[![Web Audio API](https://img.shields.io/badge/Web_Audio_API-supported-blue)](https://developer.mozilla.org/docs/Web/API/Web_Audio_API)
+
+
 A comprehensive, end-to-end encrypted WebRTC chat SDK for React applications with voice communication, audio visualization, and enterprise-grade security.
 
 ## 🔐 Security Overview
