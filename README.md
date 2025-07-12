@@ -541,7 +541,7 @@ MIT License - see LICENSE file for details
 ## 🔗 Links
 
 - [Documentation](https://github.com/MaliosDark/secure-chat-sdk/edit/main/README.md)
-- [Examples](https://github.com/MaliosDark/secure-chat-sdk/examples)
+- [Examples](https://github.com/MaliosDark/secure-chat-sdk/tree/main/examples)
 - [Security Policy](https://github.com/MaliosDark/secure-chat-sdk/blob/main/SECURITY.md)
 - [Support](https://malios.net)
 
